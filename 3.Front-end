@@ -1,1 +1,8 @@
 
+Declaracao de variaveis
+
+   import config.py
+   nome = 'carlos' -string
+   idade = 16 -int
+   salario = 2500 -float
+   descricao = 'carlos esta com o guarda chuva' -string
